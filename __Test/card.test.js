@@ -1,6 +1,6 @@
 'use strict';
 
-const Card = require('../src/decks-cards/card');
+const Card = require('../src/Decks-cards/card');
 
 describe('Card obj', ()=>{
   it('Can create a card with a suit and a rank', ()=>{
